@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tvmaze-app/static/css/main.8e5e3fae.css",
+    "main.js": "/tvmaze-app/static/js/main.7de99b44.js",
+    "index.html": "/tvmaze-app/index.html",
+    "main.8e5e3fae.css.map": "/tvmaze-app/static/css/main.8e5e3fae.css.map",
+    "main.7de99b44.js.map": "/tvmaze-app/static/js/main.7de99b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e5e3fae.css",
+    "static/js/main.7de99b44.js"
+  ]
+}
